@@ -1,6 +1,6 @@
 # Nomisma OpenRefine Reconciliation API Proxy
 
-A simple proxy for the Nomisma OpenRefine Reconciliation API. Why? Because [the official API](http://nomisma.org/apis/reconcile) does not support HTTPS.
+A simple proxy for the Nomisma OpenRefine Reconciliation API. ~~Why? Because [the official API](http://nomisma.org/apis/reconcile) does not support HTTPS.~~ Update: **This project is deprecated.** The official API now supports both HTTPS and access via CORS.
 
 ## Installation
 
